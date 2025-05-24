@@ -196,7 +196,7 @@ export default function ContactPage() {
   };
 
   return (
-    <div className="bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white">
+    <div className="bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white overflow-hidden">
       <div className="absolute top-1/4 left-1/5 w-96 h-96 rounded-full bg-blue-500/10 blur-3xl animate-pulse"></div>
       <div className="absolute bottom-1/4 right-1/5 w-80 h-80 rounded-full bg-purple-500/10 blur-3xl animate-pulse" style={{animationDelay: '1s'}}></div>
       <div className="absolute top-1/2 left-1/2 w-64 h-64 rounded-full bg-green-500/10 blur-3xl animate-pulse" style={{animationDelay: '2s'}}></div>

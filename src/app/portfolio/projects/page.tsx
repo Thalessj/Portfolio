@@ -270,7 +270,7 @@ export default function ProjectsPage() {
   };
 
   return (
-    <div className="bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white">
+    <div className="bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white overflow-hidden">
       <motion.div
         className="absolute top-1/4 right-1/4 w-72 h-72 rounded-full bg-blue-500/20 blur-3xl"
         animate={{

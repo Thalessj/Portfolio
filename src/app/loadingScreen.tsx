@@ -135,7 +135,7 @@ export default function LoadingScreen({ progress }: LoadingScreenProps) {
             rel="noopener noreferrer"
             className="p-3 rounded-full bg-white/10 backdrop-blur-sm hover:bg-white/20 transition-colors"
             whileHover={{ scale: 1.1, rotate: 5 }}
-            whileTap={{ scale: 0.9 }}es-est
+            whileTap={{ scale: 0.9 }}
           >
             <Github className="w-5 h-5" />
           </motion.a>
