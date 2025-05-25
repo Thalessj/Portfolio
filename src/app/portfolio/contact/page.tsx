@@ -54,7 +54,7 @@ const contactMethods: ContactMethod[] = [
     value: "Thalesestevam12@outlook.com",
     description: "Respondo em até 24 horas",
     color: "blue",
-    href: "mailto:contato@seudominio.com"
+    href: "mailto:Thalesestevam12@outlook.com"
   },
   {
     icon: Phone,
